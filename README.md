@@ -1,0 +1,1 @@
+RUN `npm i` and then run the following command `npm run start`
